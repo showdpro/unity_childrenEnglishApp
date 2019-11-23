@@ -1,0 +1,107 @@
+<rootNode>
+	<linkPage iconURL="http://192.168.1.105/children/linkPageBarIcon.png" text="网页链接4463" isLandscape="false" linkURL="http://www.4463.com" />
+	<category name="最近更新">
+    <series name="小苹果第1季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="小苹果第1季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第1季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第1季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第1季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第1季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第1季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第1季7集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+    <series name="小苹果第2季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="小苹果第2季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第2季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第2季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第2季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第2季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第2季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第2季7集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+    <series name="小苹果第3季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="小苹果第3季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第3季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第3季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第3季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第3季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第3季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第3季7集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+    <series name="小苹果第4季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="小苹果第4季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第4季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第4季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第4季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第4季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第4季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="小苹果第4季7集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+	</category >
+	
+	<category name="综艺节目">
+    <series name="欢乐喜剧人第1季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="欢乐喜剧人第1季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第1季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第1季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第1季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第1季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第1季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+    <series name="欢乐喜剧人第2季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="欢乐喜剧人第2季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第2季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第2季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第2季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第2季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第2季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+    <series name="欢乐喜剧人第3季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="欢乐喜剧人第3季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第3季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第3季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第3季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第3季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="欢乐喜剧人第3季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+	</category >
+	
+	<category name="儿童动画">
+    <series name="朵拉历险记第1季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="朵拉历险记第1季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第1季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第1季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第1季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第1季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第1季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+    <series name="朵拉历险记第2季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="朵拉历险记第2季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第2季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第2季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第2季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第2季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第2季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第2季7集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+    <series name="朵拉历险记第3季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="朵拉历险记第3季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第3季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第3季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第3季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第3季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第3季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第3季7集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+    <series name="朵拉历险记第4季" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="朵拉历险记第4季1集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第4季2集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第4季3集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第4季4集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第4季5集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第4季6集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+      <item name="朵拉历险记第4季7集" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://192.168.1.105/children/xpg.mp4" />
+    </series>
+	</category >
+	
+</rootNode>

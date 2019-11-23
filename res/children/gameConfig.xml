@@ -1,0 +1,28 @@
+<rootNode>
+	<category name="最近更新游戏">
+		<item name="小苹果游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="is this you游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="pencil游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="pencil box游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="pen游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="mouse游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+	</category >
+	
+	<category name="英语启蒙游戏">
+		<item name="英语小天才游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="鹅妈妈的童谣游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="英文童谣精选游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="英文童谣精选游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="汽车英语儿歌游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+	</category >
+	
+	<category name="中文对照动画游戏">
+		<item name="孔子的话游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="老子的留言游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="逝去的青春游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="过去的日子游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		<item name="开心说中文游戏" isLandscape="true" iconURL="http://192.168.1.105/children/icon.png" contentURL="https://fastcreator.github.io/webGold/" />
+		
+	</category >
+	
+</rootNode>

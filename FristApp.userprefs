@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ContentIconCtl.cs">
+    <Files>
+      <File FileName="Assets\scripts\AdmobManager.cs" Line="96" Column="5" />
+      <File FileName="Assets\scripts\ContentIconCtl.cs" Line="93" Column="41" />
+      <File FileName="Assets\Editor\PBXProjectSetting.cs" Line="34" Column="80" />
+      <File FileName="Assets\Plugins\AdmobAPI\AdmobEvent.cs" Line="10" Column="49" />
+      <File FileName="Assets\scripts\Game.cs" Line="52" Column="53" />
+      <File FileName="Assets\scripts\ScreenCtl.cs" Line="29" Column="95" />
+      <File FileName="Assets\scripts\MusicTopCtl.cs" Line="88" Column="30" />
+      <File FileName="Assets\scripts\ContentMusicCtl.cs" Line="15" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

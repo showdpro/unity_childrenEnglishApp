@@ -1,0 +1,120 @@
+<rootNode>
+  <category name="顶部大图滚动区" kingBookID="topBigImage">
+    <bigImage name="大图1" imageURL="http://192.168.1.105/children/musicTopB.png">
+      <item name="图1-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图1-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图1-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图1-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图1-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </bigImage>
+    <bigImage name="大图2" imageURL="http://192.168.1.105/children/musicTopC.png">
+      <item name="图2-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图2-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图2-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图2-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图2-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </bigImage>
+    <bigImage name="大图3" imageURL="http://192.168.1.105/children/musicTopD.png">
+      <item name="图3-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图3-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图3-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图3-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="图3-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </bigImage>
+    <!--
+    <bigImage>
+      <item name="" iconURL="" contentURL=""/>
+    </bigImage>
+    -->
+  </category >
+
+  <category name="场景" kingBookID="scene">
+    <!--场景区图标95x95-->
+    <scene name="起床" iconURL="http://192.168.1.105/children/musicSceneA.png">
+      <item name="起床-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="起床-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="起床-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="起床-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="起床-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </scene>
+    <scene name="儿歌" iconURL="http://192.168.1.105/children/musicSceneB.png">
+      <item name="儿歌-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="儿歌-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="儿歌-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="儿歌-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="儿歌-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </scene>
+    <scene name="吃饭" iconURL="http://192.168.1.105/children/musicSceneC.png">
+      <item name="吃饭-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="吃饭-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="吃饭-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="吃饭-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="吃饭-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </scene>
+    <scene name="英语" iconURL="http://192.168.1.105/children/musicSceneD.png">
+      <item name="英语-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="英语-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="英语-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="英语-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="英语-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </scene>
+  </category>
+
+  <category name="专辑" kingBookID="album">
+    <album name="儿童钢琴曲" tip="适合年龄10-15岁" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="钢琴曲-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="钢琴曲-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="钢琴曲-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="钢琴曲-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="钢琴曲-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="钢琴曲-06" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="钢琴曲-07" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="钢琴曲-08" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="钢琴曲-09" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="钢琴曲-10" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </album>
+    <album name="儿童笛乐" tip="适合年龄5-10岁" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="笛乐-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </album>
+    <album name="儿童笛乐1" tip="适合年龄5-10岁" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="笛乐-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </album>
+    <album name="儿童笛乐2" tip="适合年龄5-10岁" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="笛乐-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </album>
+    <album name="儿童笛乐3" tip="适合年龄5-10岁" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="笛乐-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </album>
+    <album name="儿童笛乐4" tip="适合年龄5-10岁" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="笛乐-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </album>
+    <album name="儿童笛乐5" tip="适合年龄5-10岁" iconURL="http://192.168.1.105/children/icon.png">
+      <item name="笛乐-01" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-02" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-03" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-04" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+      <item name="笛乐-05" iconURL="http://192.168.1.105/children/icon.png" contentURL="http://sc1.111ttt.com/2016/1/12/10/205101753237.mp3"/>
+    </album>
+  </category>
+  
+</rootNode>
